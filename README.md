@@ -1,6 +1,6 @@
 # 🔐 Secure Login System with JWT, Sessions & Cookies
 A secure user authentication system built using Node.js, Express, MongoDB, and EJS. This project supports encrypted password storage, JWT-based session management, cookie handling, and user detail rendering post-login.
-# 🚀 Live Demo: authentication-7b69.onrender.com
+# 🚀 Live Demo: https://authentication-7b69.onrender.com/
 
 # 📚 Features
 - ✅ User Registration with validation
@@ -38,7 +38,7 @@ A secure user authentication system built using Node.js, Express, MongoDB, and E
 
 # ⚙️ Getting Started
 - Clone the Repository
-git clone https://github.com/your-username/authentication-project.git
+git clone https://github.com/ram-bhagat-thakur/Authentication.git
 cd authentication-project
 - Install Dependencies
 npm install
